@@ -5,7 +5,6 @@ This project features a Sales Performance Dashboard built in Microsoft Excel to 
 
 Problem Statement
 Many businesses struggle to:
-
 Identify sales trends over time.
 Determine top-performing regions.
 Recognize seasonal patterns in sales.
