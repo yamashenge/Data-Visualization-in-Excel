@@ -4,12 +4,8 @@ Overview
 This project features a Sales Performance Dashboard built in Microsoft Excel to visualize monthly sales across three regions for the year 2025. The dashboard provides an interactive and clear summary of sales performance, helping businesses make data-driven decisions.
 
 Problem Statement
-Many businesses struggle to:
-Identify sales trends over time.
-Determine top-performing regions.
-Recognize seasonal patterns in sales.
+ Many businesses often struggle to identify sales trends, top performing regions and recognize seasonal patterns in sales.
 
-Without proper visualization, these insights are often hidden in raw data, making strategic planning difficult.
 
 Solution
 Our dashboard addresses these challenges by:
